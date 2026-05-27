@@ -11,7 +11,7 @@ let scoreTime = 0;
 let isGameOver = false;
 
 function setup() {
-  createCanvas(1800, 800);
+  createCanvas(1000, 700);
   resetGame(); 
   saveGif('my_animation',5);
 }
