@@ -13,7 +13,6 @@ let isGameOver = false;
 function setup() {
   createCanvas(1000, 700);
   resetGame(); 
-  saveGif('my_animation',5);
 }
 
 function draw() {
